@@ -1,0 +1,2 @@
+# The-Android-App-Market-on-Google-Play
+Hey there!! Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this Project, I have done a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. I have done this Project in Jupyter Notebook using Python Programming Language.
